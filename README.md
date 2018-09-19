@@ -9,7 +9,7 @@ Demonstrate your ability for a 100% correct submission for the C++ Hello World p
 
 You must complete this task with a 100% score to pass this class.  
 
-Instructions:  
+Specification:  
 
 - [ ] 0. Fork this repository.    
 - [ ] 1. Don't forget to **FORK this repository.**  DO NOT clone or copy!  
@@ -25,4 +25,6 @@ Instructions:
 
 If you want to contribute to this repository, email me a message and a Pull Request updating the instructions to make them clearer.  
 
-###
+Some steps may be added or omitted in future SRS's.  
+
+###  
